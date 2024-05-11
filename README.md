@@ -1,1 +1,1 @@
-# Google_Data_Analayticscertif
+# Google Data Analytics Certification project
